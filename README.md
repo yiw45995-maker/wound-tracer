@@ -55,9 +55,7 @@ Released under the MIT License — see [LICENSE](LICENSE).
 
 If you use this tool, please cite:
 
-> [Yi Wang]. Wound Tracer (v2): a browser-based tool for wound-area quantification. [Year]. Zenodo. https://doi.org/10.5281/zenodo.[XXXXXXX]
-
-(Replace with your Zenodo DOI once minted.)
+> [Yi Wang]. Wound Tracer (v2): a browser-based tool for wound-area quantification. 2026. Available at: https://github.com/yiw45995-maker/wound-tracer
 
 ## Development note
 
